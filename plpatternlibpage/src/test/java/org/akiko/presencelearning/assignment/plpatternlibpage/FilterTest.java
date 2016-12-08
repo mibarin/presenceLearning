@@ -16,7 +16,7 @@ import org.testng.annotations.BeforeClass;
 
 
 
-public class FirstNameSearchTest {
+public class FilterTest {
 	
 	WebDriver driver;
 	WebDriverWait wait;	
