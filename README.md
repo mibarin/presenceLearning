@@ -9,8 +9,8 @@ Set up:
 
 Environment: Windows 7
 Eclipse Luna Service Release 2 (4.4.2) with Maven and TestNG Plugin installed
-Java:
-FireFox: 
+Java:jdk1.8.0_40
+FireFox: 46.0.1
 Maven: If you do not have it for eclipse, please see http://stackoverflow.com/questions/8620127/maven-in-eclipse-step-by-step-installation
 
 To Run the project:
@@ -28,5 +28,5 @@ To Run the project:
 
 Something I struggled:
 1. Coding took a little over 2 hours because I had trouble with getting elements at first.  Additionally, I had a string comparison problem, 
-whose root cause was that I often mixed up languages and I didn't realize str.equals is needed to check.  I pend exra time on debugging.
-2. I didn't have experience runnning a maven project from GitHub on eclipse, it took a bit of time to research and make it work.
+whose root cause was that I often mixed up languages and I didn't realize str.equals is needed to check.  I pend quite some time on debugging.
+2. I didn't have experience runnning a maven project imported from GitHub on eclipse, it took a bit of time to research and make it work.
